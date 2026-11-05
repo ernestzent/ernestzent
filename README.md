@@ -69,4 +69,4 @@
 <p>Aplicación web que consume la API REST de TVMaze mediante <b>Axios y Vanilla JavaScript</b> para la búsqueda asíncrona en tiempo real de series de televisión y reparto, con renderizado dinámico del DOM y manejo de estados de carga y error.</p>
 
 <a href="https://github.com/ernestzent" target="_blank"> K-Beauty E-Commerce Concept (Responsive UI & Web Design) </a>
-<p>Diseño y maquetación de una tienda en línea enfocada en cuidado de la piel coreano, destacando una estética botánica moderna, arquitectura CSS adaptable y un menú de navegación lateral interactivo (drawer) optimizado para dispositivos móviles.</p>, control de inventarios y optimización de procesos administrativos y comerciales.</p>
+<p>Diseño y maquetación de una tienda en línea enfocada en cuidado de la piel coreano, destacando una estética botánica moderna, arquitectura CSS adaptable y un menú de navegación lateral interactivo (drawer) optimizado para dispositivos móviles.</p>
