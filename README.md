@@ -25,7 +25,7 @@
 - 🛡️ Former Cybersecurity Analyst (SOC) & IT Auditor — I build front-end applications with security best practices and risk mitigation in mind.
 - 💬 Ask me about anything related to **JavaScript, TypeScript, React, Redux Toolkit, Styled-Components, SASS, Axios, and Jest**.
 - 🎮 Hobbies other than coding : Gaming (Elden Ring, Rise of Gun, Fortnite) & Digital Video Content Creation.
-- 📫 How to reach me: ernestzent360@gmail.com | GitHub: [@ernestzent](https://github.com/ernestzent)
+- 📫 How to reach me: ernestzent360@outlook.com | GitHub: [@ernestzent](https://github.com/ernestzent)
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
