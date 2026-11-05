@@ -12,7 +12,10 @@
   Bringing a strong analytical background in Cybersecurity & IT Auditing to build secure, scalable, and high-quality web interfaces 🛡️✨.
 </p>
 
-<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<br>
+<p align="center">
+  <img align="center" alt="Coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+</p>
 
 <h2> ✨ Quick Facts </h2>
 
