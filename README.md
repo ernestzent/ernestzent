@@ -59,14 +59,17 @@
 <a href="https://github.com/ernestzent" target="_blank"> Revista CARAS - Newsletter & Landing Page (React + TypeScript) </a>
 <p>Desarrollo de una landing page y suite de componentes para la suscripción al newsletter de la revista CARAS. Construido con <b>React, TypeScript y Styled-Components</b>, implementando diseño responsivo y pruebas unitarias completas con <b>Jest y React Testing Library</b> con reportes de cobertura de código.</p>
 
-<a href="https://github.com/ernestzent" target="_blank"> Gaming Deal & Wishlist Budget Tracker (React + Redux Toolkit) </a>
+<a href="https://dealhunterebac.netlify.app/" target="_blank"> Gaming Deal & Wishlist Budget Tracker (React + Redux Toolkit) </a>
 <p>Aplicación web interactiva para el seguimiento de ofertas de videojuegos, gestión de lista de deseos (wishlist) y control de presupuesto. Desarrollada con <b>React, Redux Toolkit, JavaScript y Styled-Components</b>, respaldada con pruebas de componentes en <b>Jest</b>.</p>
+
+<a href="https://aegisguardpro-ebac.netlify.app/" target="_blank"> AegisGuard Pro - Cybersecurity SaaS Landing Page (HTML5 + CSS3 + JS) </a>
+<p>Landing page interactiva orientada a la conversión y generación de leads para una plataforma SaaS de monitoreo de ciberseguridad (prueba gratuita de 14 días). Desarrollada con <b>HTML5 semántico, CSS3 responsivo y Vanilla JavaScript</b> para la validación dinámica de formularios, aplicando una identidad visual corporativa y jerarquía tipográfica clara.</p>
 
 <a href="https://github.com/ernestzent" target="_blank"> Biblioteca Musical Interactiva (React + Redux Toolkit + React Router) </a>
 <p>Aplicación web musical con navegación dinámica para explorar álbumes y canciones, permitiendo gestionar playlists personalizadas. Desarrollada con <b>React, Redux Toolkit, React Router y Styled-Components</b>, integrando pruebas unitarias y de integración con <b>Jest y React Testing Library</b>.</p>
 
-<a href="https://github.com/ernestzent" target="_blank"> Buscador de Series y Actores - TVMaze API (JavaScript + Axios) </a>
+<a href="https://cinemazee.netlify.app/" target="_blank"> Buscador de Series y Actores - TVMaze API (JavaScript + Axios) </a>
 <p>Aplicación web que consume la API REST de TVMaze mediante <b>Axios y Vanilla JavaScript</b> para la búsqueda asíncrona en tiempo real de series de televisión y reparto, con renderizado dinámico del DOM y manejo de estados de carga y error.</p>
 
-<a href="https://github.com/ernestzent" target="_blank"> K-Beauty E-Commerce Concept (Responsive UI & Web Design) </a>
+<a href="https://e-commerce-ebac-luna-kbeauty.netlify.app/" target="_blank"> K-Beauty E-Commerce Concept (Responsive UI & Web Design) </a>
 <p>Diseño y maquetación de una tienda en línea enfocada en cuidado de la piel coreano, destacando una estética botánica moderna, arquitectura CSS adaptable y un menú de navegación lateral interactivo (drawer) optimizado para dispositivos móviles.</p>
