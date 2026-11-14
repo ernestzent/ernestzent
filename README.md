@@ -54,34 +54,39 @@
 
 <br />
 
-<h2> Proyectos Principales Front-End </h2>
-
 <h2> Featured Front-End Projects </h2>
 
 <a href="https://caras-landing-page.netlify.app/" target="_blank"> Revista CARAS - Newsletter & Landing Page (React + TypeScript + Performance/SEO) </a>
-<h3>Repositorio en GitHub: [Revista CARAS - Newsletter & Landing Page](https://github.com/ernestzent/CARAS-react-typescript.git)</h3>
+<br />
+Repositorio en GitHub: [Revista CARAS - Newsletter & Landing Page](https://github.com/ernestzent/CARAS-react-typescript.git)
 <p>Development and optimization of a responsive landing page and component suite for the CARAS magazine newsletter subscription, achieving a <b>100/100 PageSpeed Insights score</b> through WebP image compression, lazy loading, asset minification, and <b>technical SEO</b> enhancements. Built with <b>React, TypeScript, and Styled-Components</b>, backed by unit tests using <b>Jest and React Testing Library</b> with code coverage reporting. Complemented by a table-based HTML email newsletter template using inline CSS for cross-client compatibility across Gmail, Outlook, and Apple Mail.</p>
 
 <a href="https://aegisguardpro-landing-page.netlify.app/" target="_blank"> AegisGuard Pro - Cybersecurity SaaS Landing Page (HTML5 + CSS3 + JS + A11y/SEO) </a>
-<h3>Repositorio en GitHub: [AegisGuard Pro - Cybersecurity SaaS Landing Page](https://github.com/ernestzent/aegisguardpro-landing-page.git)</h3>
+<br />
+Repositorio en GitHub: [AegisGuard Pro - Cybersecurity SaaS Landing Page](https://github.com/ernestzent/aegisguardpro-landing-page.git)
 <p>Conversion-driven landing page and lead generation funnel for a cybersecurity monitoring SaaS platform (14-day free trial), optimized to achieve <b>100/100 Lighthouse scores in both Performance and Accessibility</b> (also deployed at <a href="https://aegisguardpro-ebac.netlify.app/" target="_blank">aegisguardpro-ebac</a>). Built with <b>semantic HTML5, responsive CSS3, and Vanilla JavaScript</b> for dynamic form validation, integrating <b>Open Graph</b> social metadata and <b>CTA A/B testing</b> documentation.</p>
 
 <a href="https://dealhunterebac.netlify.app/" target="_blank"> Gaming Deal & Wishlist Budget Tracker (React + Redux Toolkit + React Router) </a>
-<h3>Repositorio en GitHub: [Gaming Deal & Wishlist Budget Tracker](https://github.com/ernestzent/react-deal-hunter.git)</h3>
+<br />
+Repositorio en GitHub: [Gaming Deal & Wishlist Budget Tracker](https://github.com/ernestzent/react-deal-hunter.git)
 <p>Interactive web application for tracking video game deals, managing a custom wishlist, and monitoring real-time budget allocation. Built with <b>React, Redux Toolkit, React Router, JavaScript, and Styled-Components</b>, supported by comprehensive component and state unit testing in <b>Jest</b>.</p>
 
 <a href="https://music-library-amber.vercel.app/" target="_blank"> Interactive Music Library (React + Redux Toolkit + React Router) </a>
-<h3>Repositorio en GitHub: [Interactive Music Library](https://github.com/ernestzent/music-library-redux-toolkit-jest-react-testing-library.git)</h3>
+<br />
+Repositorio en GitHub: [Interactive Music Library](https://github.com/ernestzent/music-library-redux-toolkit-jest-react-testing-library.git)
 <p>Dynamic music web application integrating external APIs to browse albums and tracks while managing personalized playlists. Developed with <b>React, Redux Toolkit, React Router, and Styled-Components</b>, featuring unit and integration test suites built with <b>Jest and React Testing Library</b>.</p>
 
 <a href="https://cinemazee.netlify.app/" target="_blank"> TV Show & Actor Search Engine - TVMaze API (JavaScript + Axios) </a>
-<h3>Repositorio en GitHub: [TV Show & Actor Search Engine - TVMaze API](https://github.com/ernestzent/Explorador-de-Series-y-Actores.git)</h3>
+<br />
+Repositorio en GitHub: [TV Show & Actor Search Engine - TVMaze API](https://github.com/ernestzent/Explorador-de-Series-y-Actores.git)
 <p>Web application consuming TVMaze REST API show and cast endpoints via <b>Axios and Vanilla JavaScript</b> for real-time asynchronous search, featuring detail views, dynamic DOM rendering, and loading/error state management.</p>
 
 <a href="https://e-commerce-ebac-luna-kbeauty.netlify.app/" target="_blank"> K-Beauty E-Commerce Concept (Responsive UI & Web Design) </a>
-<h3>Repositorio en GitHub: [K-Beauty E-Commerce Concept](https://github.com/ernestzent/CARAS-react-typescript.git)</h3>
+<br />
+Repositorio en GitHub: [K-Beauty E-Commerce Concept](https://github.com/ernestzent/CARAS-react-typescript.git)
 <p>UI design and front-end layout for a Korean skincare online store showcasing a modern glass-skin aesthetic, adaptive CSS architecture, and an interactive mobile-optimized drawer navigation menu.</p>
 
 <a href="https://wcag-accessible-portal.netlify.app/" target="_blank"> A11y Web Studio - Multi-Page Accessible Web Project (HTML5 + CSS3 + WCAG 2.1 AA) </a>
-<h3>Repositorio en GitHub: [A11y Web Studio - Multi-Page Accessible Web Project](https://github.com/ernestzent/wcag-accessible-portal.git)</h3>
+<br />
+Repositorio en GitHub: [A11y Web Studio - Multi-Page Accessible Web Project](https://github.com/ernestzent/wcag-accessible-portal.git)
 <p>Multi-page website engineered in strict compliance with <b>WCAG 2.1 Level AA</b> accessibility standards. Implements <b>semantic HTML5</b> architecture, <b>WAI-ARIA</b> roles and attributes, full keyboard navigation support, and high-contrast <code>:focus-visible</code> indicators.</p>
