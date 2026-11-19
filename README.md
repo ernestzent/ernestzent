@@ -61,10 +61,10 @@
 Repository on GitHub: [Revista CARAS - Newsletter & Landing Page](https://github.com/ernestzent/CARAS-react-typescript.git)
 <p>Development and optimization of a responsive landing page and component suite for the CARAS magazine newsletter subscription, achieving a <b>100/100 PageSpeed Insights score</b> through WebP image compression, lazy loading, asset minification, and <b>technical SEO</b> enhancements. Built with <b>React, TypeScript, and Styled-Components</b>, backed by unit tests using <b>Jest and React Testing Library</b> with code coverage reporting. Complemented by a table-based HTML email newsletter template using inline CSS for cross-client compatibility across Gmail, Outlook, and Apple Mail.</p>
 
-<a href="https://aegisguardpro-landing-page.netlify.app/" target="_blank"> AegisGuard Pro - Cybersecurity SaaS Landing Page (HTML5 + CSS3 + JS + A11y/SEO) </a>
+<a href="https://aegisguardpro-ebac.netlify.app/" target="_blank"> AegisGuard Pro - Cybersecurity SaaS Landing Page (HTML5 + CSS3 + JS + A11y/SEO) </a>
 <br />
-Repository on GitHub: [AegisGuard Pro - Cybersecurity SaaS Landing Page](https://github.com/ernestzent/aegisguardpro-landing-page.git)
-<p>Conversion-driven landing page and lead generation funnel for a cybersecurity monitoring SaaS platform (14-day free trial), optimized to achieve <b>100/100 Lighthouse scores in both Performance and Accessibility</b> (also deployed at <a href="https://aegisguardpro-ebac.netlify.app/" target="_blank">aegisguardpro-ebac</a>). Built with <b>semantic HTML5, responsive CSS3, and Vanilla JavaScript</b> for dynamic form validation, integrating <b>Open Graph</b> social metadata and <b>CTA A/B testing</b> documentation.</p>
+Repository on GitHub: [AegisGuard Pro - Cybersecurity SaaS Landing Page](https://github.com/ernestzent/aegisguard-landing-page.git)
+<p>Conversion-driven landing page and lead generation funnel for a cybersecurity monitoring SaaS platform (14-day free trial), optimized to achieve <b>100/100 Lighthouse scores in both Performance and Accessibility</b> (also deployed at <a href="https://aegisguardpro-ebac.netlify.app/" target="_blank">aegisguardpro-ebac</a>). Built with <b>semantic HTML5, responsive CSS3, and Vanilla JavaScript</b> for dynamic form validation.
 
 <a href="https://dealhunterebac.netlify.app/" target="_blank"> Gaming Deal & Wishlist Budget Tracker (React + Redux Toolkit + React Router) </a>
 <br />
