@@ -52,6 +52,15 @@
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
 </p>
 
+<h2> 📈 My Github stats </h2>
+<br />
+<p align="center">
+  <img  alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestzent" />
+</p>
+<p align="center">
+  <img  alt="Ernesto Centeno Vilchis GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ernestzent" />
+</p>
+
 <br />
 
 <h2> Featured Front-End Projects </h2>
