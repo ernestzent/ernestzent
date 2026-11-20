@@ -83,7 +83,7 @@ Repository on GitHub: [TV Show & Actor Search Engine - TVMaze API](https://githu
 
 <a href="https://e-commerce-ebac-luna-kbeauty.netlify.app/" target="_blank"> K-Beauty E-Commerce Concept (Responsive UI & Web Design) </a>
 <br />
-Repository on GitHub: [K-Beauty E-Commerce Concept](https://github.com/ernestzent/CARAS-react-typescript.git)
+Repository on GitHub: [K-Beauty E-Commerce Concept](https://github.com/ernestzent/e-commerce-V1.git)
 <p>UI design and front-end layout for a Korean skincare online store showcasing a modern glass-skin aesthetic, adaptive CSS architecture, and an interactive mobile-optimized drawer navigation menu.</p>
 
 <a href="https://wcag-accessible-portal.netlify.app/" target="_blank"> A11y Web Studio - Multi-Page Accessible Web Project (HTML5 + CSS3 + WCAG 2.1 AA) </a>
